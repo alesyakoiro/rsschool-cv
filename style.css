@@ -1,0 +1,16 @@
+body{
+    background-image: url('/img/фон\ резюме\ 4.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    color:#a50544 ;
+    padding: 40px;
+    font-family: sans-serif;
+}
+
+p {
+    width: 600px; 
+    word-wrap: break-word;
+}
+
