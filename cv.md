@@ -9,7 +9,7 @@
 
 ## About Me
 
-**Hi, I’m Alesya, 22 years old**
+**Hi, I’m Alesya, 23 years old**
 
 I’m studying at Rolling Scoupe School and starting to learn JavaScript and GitHub. Although I don’t have much experience yet, I’m eager to dive into web development and ready to learn new things! I enjoy solving problems and working on projects. I’m open to collaboration and new challenges!
 
@@ -34,5 +34,3 @@ alert("Привет, мир!");
 - Russian (native)
 - Belorussian (native)
 - English (A1)
-
-
